@@ -1,6 +1,6 @@
 # demo-web-project
 
-![](https://raw.githubusercontent.com/Naresh-11/demo-web-project/main/preview/Screenshot%20(197).png)
+![c](https://raw.githubusercontent.com/Naresh-11/demo-web-project/main/preview/Screenshot%20(197).png)
 
 demo website source code
 # Responsive 
